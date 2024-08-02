@@ -5,8 +5,8 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   templateUrl: './control-flow.component.html',
-  styleUrl: './control-flow.component.css'
+  styles: ''
 })
-export class ControlFlowComponent {
+export default class ControlFlowComponent {
 
 }
